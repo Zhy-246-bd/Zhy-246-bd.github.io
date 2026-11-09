@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/37lfjvpmq3fsm.css","style"]
+:HL["/_next/static/chunks/2fvneal3g37ob.css","style"]
+:HL["/fonts/Poppins-Black.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"works","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"oApH7RxZUKdPL1vhY5B5s"}
