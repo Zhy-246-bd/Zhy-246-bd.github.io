@@ -2,4 +2,4 @@
 :HL["/_next/static/chunks/0ktm0d9369hta.css","style"]
 :HL["/_next/static/chunks/1k-3_20lqx84m.css","style"]
 :HL["/fonts/Poppins-Black.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"about","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"COlhzamUCG5DX7rlDK7vD"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"about","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"gXbd7DkR71DgABmhkwOIU"}
